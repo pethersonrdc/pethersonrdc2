@@ -1,6 +1,6 @@
 # Dicionario de Alunos em Python
 
-- 👋  ole meu nome é petherson henrique -- @pethersonrdc2
+- 👋  ole meu nome é petherson henrique -- @pethersonrdc
 #⭐⭐Segue nossa Ac completa⭐⭐#
 
 #Dicionário dos alunos
